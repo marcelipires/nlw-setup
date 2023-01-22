@@ -91,7 +91,7 @@ input {
   background: #18181b;
 }
 
-/*pseudo-selector*/
+/*pseudo-selector*/ /*check mark*/
 
 input:checked {
   background: #8b5cf6;
